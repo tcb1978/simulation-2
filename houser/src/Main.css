@@ -1,0 +1,65 @@
+.logo {
+    display: block;
+    padding: 200px 0 50px 0;
+}
+
+.home-center-page {
+    height: 100vh;
+    background-color: #fff;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    min-width: 75%;
+}
+
+.form-element {
+    display: block;
+    clear: both;
+}
+
+.label {
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 3px;
+    position: relative;
+    padding: 0 1em;
+}
+
+.buttonLightGreen {
+    color: #000;
+    background-color: #8AEA92;
+}
+
+.buttonDarkGreen {
+    color: #fff;
+    background-color: #3B5249;
+}
+
+.btn {
+    border: none;
+    width: 130px;
+    height: 40px;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 0px 10px;
+    font-weight: bold;
+}
+
+.open-sans-bold {
+    font-weight: 700;
+}
+
+.dark_green_border {
+    border: 1px solid #519872;
+    outline: none;
+}
+
+.Form__Auth {
+    padding: 0px 15%;
+}
+
+.Auth__input {
+    font-size: 25px;
+    width: 100%;
+    margin-bottom: 25px;
+}
